@@ -12,9 +12,9 @@ import org.springframework.context.annotation.ComponentScan;
 @ServletComponentScan
 public class CherishApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CherishApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(CherishApplication.class, args);
+    }
 
 }
 
